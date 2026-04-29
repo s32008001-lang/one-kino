@@ -101,4 +101,4 @@ export default function KahootLite() {
       <p className="mt-8  underline  underline-offset-7  italic   decoration-3  text-red-500  ">Ehtiyot bo'ling, xato qilsangiz orqaga qaytasiz!</p>
     </main>
   );
-}
+}   
